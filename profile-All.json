@@ -1,0 +1,85 @@
+{
+"profile-All":[
+        {
+            "id":"0",
+            "name":"akbar",
+            "profile":"qq.png",
+            "action":["sugested for you", "هوش مصنوعی فقط همین"],
+            "like":"12.3",
+            "comment":"34.2",
+            "send":"23.1",
+            "detail":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita sed ducimus quia cum cupiditate placeat dolor ea accusamus deleniti distinctio a, sapiente eligendi obcaecati sequi mollitia quisquam? Ad, facilis in.",
+            "date":"december 11, 2024 .",
+            "image":"./aa.png",
+            "tag":"./aa.png"
+        },
+        {
+            "id":"1",
+            "name":"akbar",
+            "profile":"qq.png",
+            "action":["sugested for you", "هوش مصنوعی فقط همین"],
+            "like":"12.3",
+            "comment":"34.2",
+            "send":"23.1",
+            "detail":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita sed ducimus quia cum cupiditate placeat dolor ea accusamus deleniti distinctio a, sapiente eligendi obcaecati sequi mollitia quisquam? Ad, facilis in.",
+            "date":"december 11, 2024 .",
+            "video":"./vid.mp4",
+            "tag":"./aa.png"
+        },
+        {
+            "id":"2",
+            "profile":"qq.png",
+            "action":["sugested for you", "هوش مصنوعی فقط همین"],
+            "like":"12.3",
+            "comment":"34.2",
+            "send":"23.1",
+            "detail":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita sed ducimus quia cum cupiditate placeat dolor ea accusamus deleniti distinctio a, sapiente eligendi obcaecati sequi mollitia quisquam? Ad, facilis in.",
+            "date":"december 11, 2024 .",
+            "image":"./aa.png"
+        },
+        {
+            "id":"3",
+            "profile":"qq.png",
+            "action":["sugested for you", "هوش مصنوعی فقط همین"],
+            "like":"12.3",
+            "comment":"34.2",
+            "send":"23.1",
+            "detail":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita sed ducimus quia cum cupiditate placeat dolor ea accusamus deleniti distinctio a, sapiente eligendi obcaecati sequi mollitia quisquam? Ad, facilis in.",
+            "date":"december 11, 2024 .",
+            "video":"./vid.mp4"
+        },
+        {
+            "id":"4",
+            "profile":"qq.png",
+            "action":["sugested for you", "هوش مصنوعی فقط همین"],
+            "like":"12.3",
+            "comment":"34.2",
+            "send":"23.1",
+            "detail":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita sed ducimus quia cum cupiditate placeat dolor ea accusamus deleniti distinctio a, sapiente eligendi obcaecati sequi mollitia quisquam? Ad, facilis in.",
+            "date":"december 11, 2024 .",
+            "image":"./aa.png"
+        },
+        {
+            "id":"5",
+            "profile":"qq.png",
+            "action":["sugested for you", "هوش مصنوعی فقط همین"],
+            "like":"12.3",
+            "comment":"34.2",
+            "send":"23.1",
+            "detail":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita sed ducimus quia cum cupiditate placeat dolor ea accusamus deleniti distinctio a, sapiente eligendi obcaecati sequi mollitia quisquam? Ad, facilis in.",
+            "date":"december 11, 2024 .",
+            "image":"./aa.png"
+        },
+        {
+            "id":"6",
+            "profile":"qq.png",
+            "action":["sugested for you", "هوش مصنوعی فقط همین"],
+            "like":"12.3",
+            "comment":"34.2",
+            "send":"23.1",
+            "detail":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita sed ducimus quia cum cupiditate placeat dolor ea accusamus deleniti distinctio a, sapiente eligendi obcaecati sequi mollitia quisquam? Ad, facilis in.",
+            "date":"december 11, 2024 .",
+            "image":"./aa.png"
+        }
+    ]
+}
