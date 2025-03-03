@@ -1,0 +1,84 @@
+{
+  "notification":[
+        {
+            "id":"0",
+            "name":"mohammad",
+            "img":"aa.png",
+            "detail":"who you might know, is on instagram",
+            "send":"Seen",
+            "button":"Follow"
+        },
+        {
+            "id":"1",
+            "name":"ali",
+            "img":"aa.png",
+            "detail":"added a photo to their story",
+            "send":"Reacted to your story",
+            "image":"aa.png"
+        },
+        {
+            "id":"2",
+            "name":"amir",
+            "img":"aa.png",
+            "detail":"added a photo to their story",
+            "send":"Sent a post by .amir",
+            "image":"aa.png"
+        },
+        {
+            "id":"3",
+            "name":"hassan",
+            "img":"aa.png",
+            "detail":"started following you",
+            "send":"Liked a message",
+            "button":"Follow back"
+        },
+        {
+            "id":"4",
+            "name":"hosseain",
+            "img":"aa.png",
+            "detail":"started following you",
+            "send":"Reacted to your story",
+            "button":"Follow back"
+        },
+        {
+            "id":"5",
+            "name":"akbar",
+            "img":"aa.png",
+            "detail":"who you might know, is on instagram",
+            "send":"Liked a message",
+            "button":"Follow"
+        },
+        {
+            "id":"6",
+            "name":"ali.asghar",
+            "img":"aa.png",
+            "detail":"added a photo to their story",
+            "send":"Seen",
+            "image":"aa.png"
+        },
+        {
+            "id":"7",
+            "name":"mohammad",
+            "img":"aa.png",
+            "detail":"who you might know, is on instagram",
+            "send":"Sent a post by .helia",
+            "button":"Follow"
+        },
+        {
+            "id":"8",
+            "name":"mohammad",
+            "img":"aa.png",
+            "detail":"started following you",
+            "send":"Sent",
+            "button":"Follow back"
+        },
+        {
+            "id":"9",
+            "name":"mohammad",
+            "img":"aa.png",
+            "send":"Reacted to your story",
+            "detail":"who you might know, is on instagram",
+            "button":"Follow"
+        }
+    ]
+}
