@@ -57,7 +57,7 @@
             "send":"23.1",
             "detail":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita sed ducimus quia cum cupiditate placeat dolor ea accusamus deleniti distinctio a, sapiente eligendi obcaecati sequi mollitia quisquam? Ad, facilis in.",
             "date":"december 11, 2024 .",
-            "image":"./aa.png"
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm7WynbZdpN-Ll_goHhDFBSF58dp8rAFXWfA&s"
         },
         {
             "id":"5",
@@ -68,7 +68,7 @@
             "send":"23.1",
             "detail":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita sed ducimus quia cum cupiditate placeat dolor ea accusamus deleniti distinctio a, sapiente eligendi obcaecati sequi mollitia quisquam? Ad, facilis in.",
             "date":"december 11, 2024 .",
-            "image":"./aa.png"
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAkXPRYXtLT47e1eTdqqOeZuLlQE-ixeKIA&s"
         },
         {
             "id":"6",
@@ -79,7 +79,7 @@
             "send":"23.1",
             "detail":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita sed ducimus quia cum cupiditate placeat dolor ea accusamus deleniti distinctio a, sapiente eligendi obcaecati sequi mollitia quisquam? Ad, facilis in.",
             "date":"december 11, 2024 .",
-            "image":"./aa.png"
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSACLnuGNjPPubtgmWR_eCGMQH186TQDbuqFQ&s"
         }
     ]
 }
