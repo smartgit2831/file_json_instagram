@@ -11,7 +11,7 @@
             "detail":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita sed ducimus quia cum cupiditate placeat dolor ea accusamus deleniti distinctio a, sapiente eligendi obcaecati sequi mollitia quisquam? Ad, facilis in.",
             "date":"december 11, 2024 .",
             "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDx8jhU3-EZ3IHy_J2NqtqEaQIETRfGXmtRA&s",
-            "tag":"./aa.png"
+            "tag":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDx8jhU3-EZ3IHy_J2NqtqEaQIETRfGXmtRA&s"
         },
         {
             "id":"1",
@@ -24,7 +24,7 @@
             "detail":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita sed ducimus quia cum cupiditate placeat dolor ea accusamus deleniti distinctio a, sapiente eligendi obcaecati sequi mollitia quisquam? Ad, facilis in.",
             "date":"december 11, 2024 .",
             "video":"./vid.mp4",
-            "tag":"./aa.png"
+            "tag":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuQvNGvr8nvqQUpE9XHNJJKDJZC1HqR8DzVg&s"
         },
         {
             "id":"2",
