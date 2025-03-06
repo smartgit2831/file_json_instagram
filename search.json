@@ -3,6 +3,13 @@
         {
             "id":"0",
             "video":"./vid.mp4",
+            "profile":"qq.png",
+            "action":["sugested for you", "هوش مصنوعی فقط همین"],
+            "like":"12.3",
+            "comment":"34.2",
+            "send":"23.1",
+            "detail":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita sed ducimus quia cum cupiditate placeat dolor ea accusamus deleniti distinctio a, sapiente eligendi obcaecati sequi mollitia quisquam? Ad, facilis in.",
+            "date":"december 11, 2024 .",
             "array_image":[
                 {
                     "id":"1",
