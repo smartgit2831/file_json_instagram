@@ -23,7 +23,7 @@
             "send":"23.1",
             "detail":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita sed ducimus quia cum cupiditate placeat dolor ea accusamus deleniti distinctio a, sapiente eligendi obcaecati sequi mollitia quisquam? Ad, facilis in.",
             "date":"december 11, 2024 .",
-            "video":"./vid.mp4",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzR-4QfI18PfuqwcLllhHteJfV1Ph0tQt_Hg&s",
             "tag":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuQvNGvr8nvqQUpE9XHNJJKDJZC1HqR8DzVg&s"
         },
         {
@@ -46,7 +46,7 @@
             "send":"23.1",
             "detail":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita sed ducimus quia cum cupiditate placeat dolor ea accusamus deleniti distinctio a, sapiente eligendi obcaecati sequi mollitia quisquam? Ad, facilis in.",
             "date":"december 11, 2024 .",
-            "video":"./vid.mp4"
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT28GInIyJVuXbUUh9mqpKANnDknevNzf0cYw&s"
         },
         {
             "id":"4",
@@ -79,7 +79,7 @@
             "send":"23.1",
             "detail":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita sed ducimus quia cum cupiditate placeat dolor ea accusamus deleniti distinctio a, sapiente eligendi obcaecati sequi mollitia quisquam? Ad, facilis in.",
             "date":"december 11, 2024 .",
-            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSACLnuGNjPPubtgmWR_eCGMQH186TQDbuqFQ&s"
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_zSGpbTJzpsyxCV8n0GVO3wcD3rAfPqewTQ&s"
         }
     ]
 }
